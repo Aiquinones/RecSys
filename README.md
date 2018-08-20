@@ -5,5 +5,5 @@ A continuación se explicará qué crítica corresponde a qué paper:
 
 | Archivo                | Paper        | Semana         |
 |:--------------------- |:--------------|:--------------|
-| Crítica 1.pdf          | Collaborative Filtering Recommender Systems    | 1 |
-| Crítica 2.pdf             | How Not To Sort By Average Rating           | 1  |
+| [Crítica 1.pdf](https://github.com/Aiquinones/RecSys/blob/master/Cr%C3%ADtica%201.pdf)         | Collaborative Filtering Recommender Systems    | 1 |
+| [Crítica 2.pdf](https://github.com/Aiquinones/RecSys/blob/master/Cr%C3%ADtica%202.pdf)            | How Not To Sort By Average Rating           | 1  |
